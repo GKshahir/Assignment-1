@@ -1,4 +1,4 @@
-h1,h2,h3{
+h1{
     text-align: center;
 }
 
@@ -6,8 +6,11 @@ img{
     height: 200px;
 }
 body{
-    background-color: lightgrey;
+    background-color: whitesmoke;
 }
 p{
+    text-align: center;
+}
+h1,h2,h3{
     text-align: center;
 }
